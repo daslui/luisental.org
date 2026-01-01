@@ -631,3 +631,23 @@
 	--button-background:#0B5CFF;
   --button-border:1px solid #FFFFFF;
 }
+.button.button-zoom:hover,
+.button.button-zoom:focus {
+  filter: brightness(90%);
+}
+
+
+/* CUSTOM BRANDS */
+
+/* Find us on Bremen.de */
+.button-find-us-on-bremen-de {
+    color: #ffffff;
+    background-color: #c42b29;
+}
+
+/* Lui at rausgegangen.de */
+.button-lui-at-rausgegangen-de {
+    color: #ffffff;
+    background-color: #5b51ec;
+}
+

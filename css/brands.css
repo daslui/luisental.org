@@ -651,3 +651,8 @@
     background-color: #5b51ec;
 }
 
+/* Lui at FomoBremen.info */
+.button-lui-at-fomobremen-info {
+    --button-text: #ffffff;
+    --button-background: #1d1d1d;
+}

@@ -655,4 +655,12 @@
 .button-lui-at-fomobremen-info {
     --button-text: #ffffff;
     --button-background: #1d1d1d;
+    --button-border: 1px solid #FFFFFF;
+}
+
+/* OpenStreetMap */
+.button-osm {
+  --button-text:#000000;
+  --button-background:#FFFFFF;
+  --button-border:1px solid #000000;
 }
